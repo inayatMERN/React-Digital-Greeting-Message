@@ -1,0 +1,15 @@
+.h1tag{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    color: yellow;
+    align-items: center;
+    margin-top: 190px;
+}
+
+.Msg{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 50px;
+}
